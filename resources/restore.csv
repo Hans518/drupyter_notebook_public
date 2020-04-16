@@ -1,0 +1,119 @@
+Restore Status,Device ID,User ID,Restore Size,Restore Start,Restore Complete,Number of Files,System Settings Restored,Restore Type
+Restore done,2880517,421646,6840.95,02/18/20 18:42,02/18/20 19:45,83080,No,Self
+Restore done,2880517,421646,6840.95,02/18/20 20:00,02/18/20 20:43,83080,No,Self
+Restore done,2880517,421646,9824.69,02/18/20 20:10,02/18/20 20:23,1862,No,Self
+Restore done,994260,156141,0.00,02/18/20 20:24,02/18/20 20:25,1,No,Self
+Restore done,2880517,421646,9824.69,02/18/20 20:43,02/18/20 20:49,1862,No,Self
+Restore done,2880517,421646,8712.64,02/18/20 20:49,02/18/20 21:11,33326,No,Self
+Restore done,2880517,421646,8712.64,02/18/20 20:59,02/18/20 21:12,33326,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.02,02/18/20 21:12,02/18/20 21:12,3,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:12,02/18/20 21:12,2,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:12,02/18/20 21:12,4,No,Self
+Restore done,2880517,421646,1.09,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.32,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.06,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.50,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.50,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:12,02/18/20 21:12,1,No,Self
+Restore done,2880517,421646,0.07,02/18/20 21:13,02/18/20 21:13,1,No,Self
+Restore done,2880517,421646,0.02,02/18/20 21:13,02/18/20 21:13,3,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:13,02/18/20 21:13,2,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:13,02/18/20 21:13,1,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:13,02/18/20 21:13,4,No,Self
+Restore done,2880517,421646,1.09,02/18/20 21:13,02/18/20 21:13,1,No,Self
+Restore done,2880517,421646,0.32,02/18/20 21:13,02/18/20 21:13,1,No,Self
+Restore done,2880517,421646,0.06,02/18/20 21:13,02/18/20 21:13,1,No,Self
+Restore done,2880517,421646,0.50,02/18/20 21:13,02/18/20 21:13,1,No,Self
+Restore done,2880517,421646,0.50,02/18/20 21:14,02/18/20 21:14,1,No,Self
+Restore done,2880517,421646,0.00,02/18/20 21:14,02/18/20 21:14,1,No,Self
+Restore done,2880517,421646,0.07,02/18/20 21:14,02/18/20 21:14,1,No,Self
+Restore done,2783789,237212,21501.74,02/19/20 19:16,02/19/20 21:36,561450,No,Self
+Restore done,2551631,1958716,33.45,02/20/20 04:36,02/20/20 04:36,37,No,Web
+Restore done,2551631,1958716,88.23,02/20/20 04:36,02/20/20 04:36,33,No,Web
+Restore done,2551631,1958716,121.68,02/20/20 17:02,02/20/20 17:02,70,No,Web
+Restore done,3462104,2575732,2397.03,02/20/20 17:26,02/20/20 17:53,20784,No,Self
+Restore done,368955,240318,42.78,02/20/20 17:34,02/20/20 17:34,172,No,Web
+Restore done,2551631,1958716,0.00,02/21/20 06:35,02/21/20 06:35,1,No,Web
+Restore done,2783789,237212,0.08,02/21/20 16:52,02/21/20 16:52,13,No,Self
+Restore done,2259082,154424,87.38,02/21/20 18:50,02/21/20 18:51,910,Yes,Self
+Restore done,2259082,154424,3269.15,02/21/20 18:51,02/21/20 19:02,4102,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\sboreham\\AppData\\Local\\Adobe\\OOBE\\opm.db',3466709,2577778,15718.41,02/21/20 20:10,02/21/20 22:14,88341,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\evyn2481\\AppData\\Local\\Comms\\UnistoreDB\\store.jfm',3391041,2539471,7080.99,02/21/20 21:07,02/21/20 23:06,106439,No,Self
+Restore done,2551631,1958716,0.07,02/23/20 22:54,02/23/20 22:54,1,No,Web
+Restore done,2551631,1958716,0.03,02/23/20 22:55,02/23/20 22:55,1,No,Web
+Restore done,2680966,2038136,0.00,02/24/20 21:17,02/24/20 21:17,1,No,Web
+Restore done with errors: User does not have write permissions on the restore path,4048673,3100472,9780.87,02/24/20 23:20,02/24/20 23:37,46505,No,Self
+Restore done,1658434,245440,14199.93,02/24/20 23:49,02/25/20 00:15,36835,No,Self
+Connection dropped before completing restore.,2673298,196965,0.00,02/25/20 18:26,02/25/20 18:28,0,No,Admin
+Connection dropped before completing restore.,2673298,196965,0.00,02/25/20 18:28,02/25/20 18:30,0,No,Admin
+Connection dropped before completing restore.,2673298,196965,0.00,02/25/20 18:31,02/25/20 18:33,0,No,Admin
+Restore done,1630637,1321188,9.04,02/25/20 18:42,02/25/20 18:42,24,Yes,Self
+Restore done,1630637,1321188,18708.98,02/25/20 18:42,02/25/20 19:10,4965,No,Self
+Connection dropped before completing restore.,2673298,196965,0.00,02/25/20 18:46,02/25/20 18:48,0,No,Admin
+Restore done,2253924,603624,223.21,02/25/20 20:36,02/25/20 20:36,197,No,Web
+Restore done,2253924,603624,0.00,02/25/20 20:41,02/25/20 20:41,1,No,Web
+Restore done,2253924,603624,0.01,02/25/20 20:42,02/25/20 20:42,1,No,Web
+Restore done,2253924,603624,0.05,02/25/20 20:45,02/25/20 20:45,1,No,Web
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\vgasparaitis\\AppData\\Local\\Adobe\\OOBE\\opm.db',3467016,2577863,32587.27,02/26/20 18:14,02/27/20 00:10,64349,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\Jrodriguez3\\AppData\\Local\\Adobe\\OOBE\\opm.db',3391268,2539598,9933.42,02/28/20 15:51,02/28/20 17:55,73844,No,Self
+Restore done,3399523,2544124,0.00,02/28/20 18:34,02/28/20 18:34,0,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\cpatt1\\AppData\\Local\\Adobe\\OOBE\\opm.db',3399523,2544124,1499.93,02/28/20 19:18,02/28/20 20:07,42471,No,Self
+Restore done,3399523,2544124,30541.71,02/28/20 22:16,02/28/20 22:51,84099,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\shodges\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data',1274639,1089175,12514.96,02/29/20 06:02,02/29/20 07:52,89587,No,Self
+Restore done,1274639,1089175,0.00,02/29/20 07:52,02/29/20 07:52,0,No,Self
+Restore done,2551631,1958716,37.51,03/01/20 23:58,03/01/20 23:58,59,No,Web
+Restore done,2551631,1958716,4.26,03/01/20 23:59,03/02/20 00:00,61,No,Web
+Restore done,2551631,1958716,0.59,03/02/20 00:18,03/02/20 00:18,1,No,Web
+Restore done,3399523,2544124,30541.71,03/02/20 15:06,03/02/20 16:02,84099,No,Self
+Restore done,1512569,1243361,1691.34,03/02/20 20:03,03/02/20 20:25,14148,No,Admin
+Restore done,1936087,1243361,123.32,03/02/20 20:09,03/02/20 20:10,974,No,Admin
+Restore done,1612031,240554,14489.89,03/03/20 21:31,03/03/20 23:38,89614,No,Self
+Restore done,1612031,240554,0.00,03/03/20 23:38,03/03/20 23:38,0,No,Self
+Restore done,1612031,240554,0.00,03/03/20 23:38,03/03/20 23:38,0,No,Self
+Cancelled,916494,435182,0.00,03/04/20 04:01,04/04/20 00:15,0,No,Self
+Restore done,916494,435182,17.42,03/04/20 14:12,03/04/20 14:12,92,No,Self
+Restore done,789636,668678,20120.07,03/04/20 17:05,03/04/20 17:49,219317,No,Self
+Restore done,1612031,240554,797.29,03/04/20 20:28,03/04/20 20:39,255,No,Self
+Restore done,916494,435182,1.36,03/05/20 17:17,03/05/20 17:17,1,No,Self
+Restore done,1233522,1058926,4653.56,03/06/20 15:04,03/06/20 15:19,44759,No,Self
+Restore done,1233522,1058926,0.00,03/06/20 15:20,03/06/20 15:20,0,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\mbell1\\AppData\\Local\\Comms\\UnistoreDB\\tmp.edb',1233522,1058926,4471.41,03/06/20 20:09,03/06/20 21:27,44217,No,Self
+Restore done,1233522,1058926,0.00,03/06/20 21:27,03/06/20 21:27,0,No,Self
+Restore done,1950332,1645082,4.28,03/09/20 17:52,03/09/20 17:52,2,No,Web
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\nbryditzki\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data',1398479,379273,10436.98,03/09/20 22:17,03/10/20 00:35,102220,No,Self
+Restore done,1398479,379273,10436.98,03/10/20 00:35,03/10/20 02:08,102322,No,Self
+Restore done,1398479,379273,0.00,03/10/20 02:08,03/10/20 02:08,0,No,Self
+Restore done,916494,435182,0.05,03/10/20 15:47,03/10/20 15:47,1,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\katelyn4606\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cookies',3390730,2539358,1682.93,03/11/20 14:11,03/11/20 14:29,7346,No,Self
+Cancelled,1515147,1243377,0.00,03/12/20 15:51,03/12/20 15:51,0,No,Self
+Cancelled,1515147,1243377,0.00,03/12/20 15:51,03/12/20 15:53,0,No,Self
+Restore done,1515147,1243377,20865.03,03/12/20 15:53,03/12/20 18:26,22597,No,Self
+Restore done,1793546,1413847,0.00,03/16/20 21:16,03/16/20 21:16,0,No,Self
+Cancelled,1793546,1413847,24035.07,03/17/20 02:26,03/17/20 02:57,35703,No,Self
+Restore done,1793546,1413847,0.00,03/17/20 02:40,03/17/20 02:40,0,No,Self
+Restore done with errors: Error -3 while decompressing data: incorrect header check,1793546,1413847,1212.46,03/17/20 02:52,03/17/20 03:10,18456,No,Self
+Restore done,1740913,237185,10234.43,03/17/20 19:40,03/17/20 20:07,133,No,Self
+Restore done,265693,240554,0.00,03/17/20 22:33,03/17/20 22:34,0,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\aarevalo\\AppData\\Local\\Comms\\UnistoreDB\\USStmp.jtx',265693,240554,17586.87,03/18/20 00:31,03/18/20 02:51,99583,No,Self
+Restore done,3336906,722266,8190.12,03/19/20 16:28,03/19/20 18:39,232197,No,Self
+Restore done,4084125,163684,10488.41,03/20/20 16:58,03/20/20 18:02,28490,No,Self
+Restore done,1122523,163684,31225.19,03/20/20 20:24,03/20/20 22:55,242305,No,Self
+Cancelled,1274639,1089175,0.00,03/24/20 03:13,03/24/20 03:13,0,No,Self
+Restore done,1274639,1089175,4772.26,03/24/20 03:14,03/24/20 03:35,1714,No,Web
+Restore done,1548643,1275194,0.00,03/24/20 09:38,03/24/20 09:38,0,No,Self
+Restore done with errors: [Error 32] The process cannot access the file because it is being used by another process: u'\\\\?\\C:\\Users\\lstaplefordalle\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cookies',1548643,1275194,1501.14,03/24/20 09:38,03/24/20 10:03,14611,No,Self
+Restore failed with error: User does not have write permissions on the restore path,1548643,1275194,0.00,03/24/20 10:04,03/24/20 10:04,0,No,Self
+Restore done,779205,245292,761.70,03/24/20 18:39,03/24/20 18:50,6407,No,Web
+Restore done,779205,245292,510.69,03/24/20 18:52,03/24/20 18:53,55,No,Web
+Restore done,2537517,245823,0.06,04/03/20 17:09,04/03/20 17:09,5,No,Self
+Restore done,2537517,245823,0.06,04/03/20 17:22,04/03/20 17:22,5,No,Self
+Restore done,2537517,245823,0.06,04/03/20 17:53,04/03/20 17:53,5,No,Self
+Restore done,2537517,245823,0.06,04/03/20 18:00,04/03/20 18:00,5,No,Self
+Restore done,2537517,245823,0.06,04/03/20 18:01,04/03/20 18:01,5,No,Self
+Restore done,2537517,245823,0.27,04/03/20 18:05,04/03/20 18:06,19,No,Self
+Restore done,3137749,707596,331.73,04/08/20 19:25,04/08/20 19:28,3951,Yes,Self
+Restore done,3137749,707596,259079.89,04/09/20 20:46,04/10/20 11:33,595359,No,Self
+Connection dropped before completing restore.,4042639,615934,0.00,04/16/20 20:00,04/16/20 20:01,0,No,Web
